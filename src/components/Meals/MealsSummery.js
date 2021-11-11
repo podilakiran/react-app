@@ -1,7 +1,6 @@
-import React from 'react';
 import classes from './MealsSummery.module.css';
 
-const MealsSummery = props => {
+const MealsSummary = () => {
     return (
         <section className={classes.summary}>
             <h2>Delicious Food, Delivered To You</h2>
@@ -17,4 +16,4 @@ const MealsSummery = props => {
     );
 };
 
-export default MealsSummery;
+export default MealsSummary;
