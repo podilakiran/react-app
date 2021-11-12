@@ -1,51 +1,63 @@
+import {useEffect, useState} from 'react';
+import "bootstrap/dist/css/bootstrap.min.css";
 import Card from '../UI/Card';
 import MealItem from './MealItem/MealItem';
 import classes from './AvailableMeals.module.css';
-
-const DUMMY_MEALS = [
-    {
-        id: 'm1',
-        name: 'Sushi',
-        description: 'Finest fish and veggies',
-        price: 22.99,
-    },
-    {
-        id: 'm2',
-        name: 'Schnitzel',
-        description: 'A german specialty!',
-        price: 16.5,
-    },
-    {
-        id: 'm3',
-        name: 'Barbecue Burger',
-        description: 'American, raw, meaty',
-        price: 12.99,
-    },
-    {
-        id: 'm4',
-        name: 'Green Bowl',
-        description: 'Healthy...and green...',
-        price: 18.99,
-    },
-];
+import axios from 'axios';
 
 const AvailableMeals = () => {
-    const mealsList = DUMMY_MEALS.map((meal) => (
+    const [foodlist, setFoodList] = useState([]);
+    var options = {
+        method: 'GET',
+        url: 'https://burgers1.p.rapidapi.com/burgers',
+        headers: {
+            'x-rapidapi-host': 'burgers1.p.rapidapi.com',
+            'x-rapidapi-key': '5b773c1134msh3115a8a8c35beddp164679jsn7e57dd19ba05'
+        }
+    };
+
+    useEffect(() => {
+       async function getData(){
+           await axios.request(options).then(function (response) {
+               setFoodList(response.data);
+           }).catch(function (error) {
+
+           });
+       }
+        getData();
+    },[]);
+
+    const mealsList = foodlist.map((meal) => (
+
         <MealItem
             key={meal.id}
             id={meal.id}
             name={meal.name}
             description={meal.description}
-            price={meal.price}
+            restaurant={meal.restaurant}
+            web={meal.web}
+            price={meal.ingredients.length}
         />
     ));
 
     return (
-        <section className={classes.meals}>
+       /* <section className={classes.meals}>
             <Card>
                 <ul>{mealsList}</ul>
             </Card>
         </section>
+
+        */
+        <div className="container-fluid mb-5">
+            <div className="row">
+                <div className="col-6 mx-auto">
+                    <div className="row gy-sm-1">
+                        {mealsList}
+                    </div>
+                </div>
+            </div>
+        </div>
+
     );
 };
 

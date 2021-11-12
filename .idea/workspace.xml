@@ -2,128 +2,133 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79598414-a66b-49c8-ab8b-fc0de8863f57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/getHttpsConfig.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/babelTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/cssTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/jest/fileTransform.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/modules.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/paths.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/pnpTs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpack.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/webpackDevServer.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/start.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/react-scripts" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/bin/react-scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/env.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/getHttpsConfig.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/jest/babelTransform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/jest/cssTransform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/jest/fileTransform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/modules.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/paths.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/pnpTs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/webpack.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/config/webpackDevServer.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/lib/react-app.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/caching.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/config-chain.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/config-descriptors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/files/configuration.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/files/import.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/files/index-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/files/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/files/module-types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/files/package.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/files/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/files/types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/files/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/full.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/helpers/config-api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/helpers/environment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/item.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/partial.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/pattern-to-regex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/printer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/validation/option-assertions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/validation/options.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/validation/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/config/validation/removed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/gensync-utils/async.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/gensync-utils/fs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/gensync-utils/resolve.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/parse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/parser/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/parser/util/missing-plugin-helper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/tools/build-external-helpers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/transform-ast.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/transform-file-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/transform-file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/transform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/transformation/block-hoist-plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/transformation/file/file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/transformation/file/generate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/transformation/file/merge-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/transformation/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/transformation/normalize-file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/transformation/normalize-opts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/lib/transformation/plugin-pass.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/node_modules/.bin/semver.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/node_modules/.bin/semver.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/node_modules/semver/CHANGELOG.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/node_modules/semver/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/node_modules/semver/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/node_modules/semver/bin/semver" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/node_modules/semver/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/node_modules/semver/range.bnf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/node_modules/semver/semver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/src/config/files/index-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/src/config/files/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/src/transform-file-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/node_modules/@babel/core/src/transform-file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/build.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/eject.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/init.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/start.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/utils/createJestConfig.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/utils/verifyPackageTree.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/scripts/utils/verifyTypeScriptSetup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template-typescript/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-scripts/template/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.cache/gh-pages/https!github.com!podilakiran!react-app.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/gh-pages/https!github.com!podilakiran!react-app.git" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/cache-contexts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/caching.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/caching.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/config-chain.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/config-chain.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/config-descriptors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/config-descriptors.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/configuration.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/configuration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/index-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/index-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/module-types.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/module-types.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/package.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/package.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/full.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/full.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/helpers/config-api.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/helpers/config-api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/item.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/item.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/partial.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/partial.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/pattern-to-regex.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/pattern-to-regex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/printer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/printer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/resolve-targets-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/resolve-targets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/util.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/validation/option-assertions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/validation/option-assertions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/validation/options.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/validation/options.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/gensync-utils/async.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/gensync-utils/async.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/gensync-utils/fs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/gensync-utils/fs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/parse.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/parser/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/parser/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/parser/util/missing-plugin-helper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/parser/util/missing-plugin-helper.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/tools/build-external-helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/tools/build-external-helpers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform-ast.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform-ast.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform-file-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform-file-browser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform-file.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform-file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/block-hoist-plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/block-hoist-plugin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/file/file.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/file/file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/file/generate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/file/generate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/file/merge-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/file/merge-map.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/normalize-file.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/normalize-file.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/normalize-opts.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/normalize-opts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/plugin-pass.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/plugin-pass.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/util/clone-deep-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/util/clone-deep.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/semver.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/semver.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/semver.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/semver.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/bin/semver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/semver.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/semver.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/config/files/index-browser.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/config/files/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/config/resolve-targets-browser.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/config/resolve-targets.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/transform-file-browser.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/transform-file.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/transformation/util/clone-deep-browser.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/transformation/util/clone-deep.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/caching.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/config-chain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/config-descriptors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/configuration.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/import.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/index-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/module-types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/package.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/full.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/helpers/config-api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/helpers/environment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/item.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/partial.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/pattern-to-regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/printer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/validation/option-assertions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/validation/options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/validation/plugins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/validation/removed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/gensync-utils/async.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/gensync-utils/fs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/gensync-utils/resolve.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/parser/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/parser/util/missing-plugin-helper.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/tools/build-external-helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transform-ast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transform-file-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transform-file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transform.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/block-hoist-plugin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/file/file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/file/generate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/file/merge-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/normalize-file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/normalize-opts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/plugin-pass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/src/config/files/index-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/src/config/files/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/src/transform-file-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/src/transform-file.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cart/Cart.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/Cart.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cart/Cart.model.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/Cart.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cart/CartIcon.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cart/CartIcon.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Layout/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/HeaderCartButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/HeaderCartButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Header.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Layout/HeaderCartButton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/HeaderCartButton.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Meals/AvailableMeals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Meals/AvailableMeals.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItemFrom.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItemFrom.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Meals/Meals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Meals/Meals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Meals/MealsSummery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Meals/MealsSummery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Card.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/Input.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Input.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/UI/Model.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/Model.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/store/CartProvider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/CartProvider.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -142,7 +147,16 @@
         <entry file="file://$PROJECT_DIR$/src/store/cart-context.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1530">
+              <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -171,8 +185,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Meals/MealItem/MealItemFrom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="688">
-              <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
+            <state relative-caret-position="85">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -184,7 +198,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/UI/Model.module.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
-              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -207,11 +221,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Cart/CartItem.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            <state relative-caret-position="51">
+              <caret line="3" column="15" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -219,8 +233,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Cart/CartItem.module.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+            <state relative-caret-position="102">
+              <caret line="6" column="19" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -228,8 +242,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Layout/Header.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            <state relative-caret-position="170">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
@@ -240,8 +254,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Layout/Header.module.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+            <state relative-caret-position="102">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -249,11 +263,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Layout/HeaderCartButton.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#56#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -261,8 +272,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Layout/HeaderCartButton.module.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+            <state relative-caret-position="68">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -270,8 +281,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+            <state relative-caret-position="782">
+              <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -294,13 +308,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Meals/AvailableMeals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="756">
-              <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+            <state relative-caret-position="490">
+              <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
               <folding>
-                <element signature="e#0#30#0" expanded="true" />
+                <element signature="e#1#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -309,8 +323,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Meals/AvailableMeals.module.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="68">
+              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -318,8 +332,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Meals/Meals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            <state relative-caret-position="153">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#33#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -327,8 +344,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Meals/MealsSummery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -345,8 +362,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/UI/Card.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            <state relative-caret-position="34">
+              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -396,20 +413,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
+            <state>
+              <caret column="33" selection-start-column="33" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.css">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/structural.rnc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="524">
+              <caret line="165" column="16" selection-start-line="165" selection-start-column="16" selection-end-line="165" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -417,20 +431,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/store/CartProvider.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1496">
-              <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
+            <state relative-caret-position="450">
+              <caret line="74" column="21" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="21" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/webpack.config.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8092">
-              <caret line="476" column="37" selection-start-line="476" selection-start-column="37" selection-end-line="476" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -449,6 +454,9 @@
       <find>sushi</find>
       <find>Total Amount</find>
       <find>from './Cart</find>
+      <find>.map(</find>
+      <find>bootstra</find>
+      <find>mealsList</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -467,7 +475,6 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config/webpack.config.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/store/CartProvider.js" />
@@ -476,30 +483,31 @@
         <option value="$PROJECT_DIR$/src/components/Cart/CartIcon.js" />
         <option value="$PROJECT_DIR$/src/components/Cart/CartItem.js" />
         <option value="$PROJECT_DIR$/src/components/Cart/CartItem.module.css" />
-        <option value="$PROJECT_DIR$/src/components/Layout/Header.js" />
-        <option value="$PROJECT_DIR$/src/components/Layout/Header.module.css" />
         <option value="$PROJECT_DIR$/src/components/Layout/HeaderCartButton.js" />
-        <option value="$PROJECT_DIR$/src/components/Layout/HeaderCartButton.module.css" />
         <option value="$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.module.css" />
-        <option value="$PROJECT_DIR$/src/components/Meals/MealItem/MealItemFrom.js" />
         <option value="$PROJECT_DIR$/src/components/Meals/MealItem/MealItemForm.module.css" />
-        <option value="$PROJECT_DIR$/src/components/Meals/AvailableMeals.js" />
-        <option value="$PROJECT_DIR$/src/components/Meals/AvailableMeals.module.css" />
         <option value="$PROJECT_DIR$/src/components/Meals/MealsSummery.module.css" />
         <option value="$PROJECT_DIR$/src/components/UI/Card.js" />
         <option value="$PROJECT_DIR$/src/components/UI/Card.module.css" />
         <option value="$PROJECT_DIR$/src/components/UI/Input.js" />
         <option value="$PROJECT_DIR$/src/components/UI/Input.module.css" />
         <option value="$PROJECT_DIR$/src/components/UI/Model.module.css" />
-        <option value="$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.js" />
         <option value="$PROJECT_DIR$/src/components/Meals/Meals.js" />
         <option value="$PROJECT_DIR$/src/components/Meals/MealsSummery.js" />
         <option value="$PROJECT_DIR$/src/components/UI/Model.js" />
         <option value="$PROJECT_DIR$/src/components/Cart/Cart.js" />
+        <option value="$PROJECT_DIR$/src/components/Meals/AvailableMeals.module.css" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/Meals/MealItem/MealItemFrom.js" />
+        <option value="$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.js" />
+        <option value="$PROJECT_DIR$/src/components/Layout/Header.module.css" />
+        <option value="$PROJECT_DIR$/src/components/Layout/Header.js" />
+        <option value="$PROJECT_DIR$/src/components/Layout/HeaderCartButton.module.css" />
+        <option value="$PROJECT_DIR$/src/components/Meals/AvailableMeals.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1920" />
     <option name="height" value="1040" />
   </component>
@@ -526,14 +534,13 @@
               <item name="react-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="react-app" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-app" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Cart" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="react-app" type="b2602c69:ProjectViewProjectNode" />
@@ -549,19 +556,6 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="Meals" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="UI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="react-app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="store" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -571,7 +565,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -582,6 +576,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kpodila\PhpstormProjects\react-app\src\assets" />
       <recent name="C:\Users\kpodila\PhpstormProjects\react-app" />
       <recent name="C:\Users\kpodila\PhpstormProjects\react-app\src" />
     </key>
@@ -626,18 +621,18 @@
       <workItem from="1635936451914" duration="10042000" />
       <workItem from="1636098813574" duration="3786000" />
       <workItem from="1636121888724" duration="415000" />
-      <workItem from="1636628800118" duration="2676000" />
+      <workItem from="1636628800118" duration="17549000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16919000" />
+    <option name="totallyTimeSpent" value="31792000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2580645" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25586355" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -652,7 +647,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053763" side_tool="true" weight="0.5538642" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946237" weight="0.5538642" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946237" weight="0.4566745" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -681,13 +676,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1530">
-          <caret line="90" column="6" selection-start-line="90" selection-start-column="6" selection-end-line="90" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -699,16 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8092">
           <caret line="476" column="37" selection-start-line="476" selection-start-column="37" selection-end-line="476" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -729,23 +707,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/CartProvider.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="88" column="28" selection-start-line="88" selection-start-column="28" selection-end-line="88" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/store/cart-context.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Cart/CartIcon.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -753,92 +714,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layout/Header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layout/Header.module.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layout/HeaderCartButton.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="32" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#56#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Layout/HeaderCartButton.module.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="58" column="1" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.module.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Meals/MealItem/MealItemFrom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="688">
-          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Meals/MealItem/MealItemForm.module.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Meals/AvailableMeals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Meals/AvailableMeals.module.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Meals/MealsSummery.module.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/UI/Card.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -869,28 +748,7 @@
     <entry file="file://$PROJECT_DIR$/src/components/UI/Model.module.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Meals/Meals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Meals/MealsSummery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -918,17 +776,161 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Cart/CartItem.module.css">
+    <entry file="file://$PROJECT_DIR$/src/store/cart-context.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="64" column="1" selection-start-line="64" selection-start-column="1" selection-end-line="64" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/CartProvider.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="74" column="21" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/structural.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="165" column="16" selection-start-line="165" selection-start-column="16" selection-end-line="165" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Meals/MealsSummery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Cart/CartItem.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        <state relative-caret-position="51">
+          <caret line="3" column="15" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Cart/CartItem.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="5" selection-start-column="4" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Meals/AvailableMeals.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="33" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Meals/MealItem/MealItemForm.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1530">
+          <caret line="92" column="6" selection-start-line="92" selection-start-column="6" selection-end-line="92" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Meals/Meals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/UI/Card.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Meals/MealItem/MealItemFrom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="60" selection-start-line="46" selection-start-column="60" selection-end-line="46" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layout/Header.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layout/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layout/HeaderCartButton.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Layout/HeaderCartButton.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Meals/AvailableMeals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+          <folding>
+            <element signature="e#1#43#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
