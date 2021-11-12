@@ -2,133 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79598414-a66b-49c8-ab8b-fc0de8863f57" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.cache/gh-pages/https!github.com!podilakiran!react-app.git" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.cache/gh-pages/https!github.com!podilakiran!react-app.git" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/cache-contexts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/caching.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/caching.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/config-chain.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/config-chain.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/config-descriptors.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/config-descriptors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/configuration.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/configuration.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/index-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/index-browser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/module-types.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/module-types.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/package.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/package.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/files/utils.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/full.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/full.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/helpers/config-api.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/helpers/config-api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/item.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/item.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/partial.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/partial.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/pattern-to-regex.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/pattern-to-regex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/printer.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/printer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/resolve-targets-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/resolve-targets.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/util.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/validation/option-assertions.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/validation/option-assertions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/validation/options.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/config/validation/options.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/gensync-utils/async.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/gensync-utils/async.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/gensync-utils/fs.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/gensync-utils/fs.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/parse.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/parse.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/parser/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/parser/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/parser/util/missing-plugin-helper.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/parser/util/missing-plugin-helper.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/tools/build-external-helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/tools/build-external-helpers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform-ast.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform-ast.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform-file-browser.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform-file-browser.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform-file.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform-file.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transform.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/block-hoist-plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/block-hoist-plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/file/file.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/file/file.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/file/generate.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/file/generate.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/file/merge-map.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/file/merge-map.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/normalize-file.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/normalize-file.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/normalize-opts.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/normalize-opts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/plugin-pass.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/plugin-pass.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/util/clone-deep-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/lib/transformation/util/clone-deep.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/semver" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/semver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/semver.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/semver.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/semver.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/.bin/semver.ps1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/bin/semver.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/semver.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/node_modules/semver/semver.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@babel/core/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/config/files/index-browser.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/config/files/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/config/resolve-targets-browser.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/config/resolve-targets.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/transform-file-browser.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/transform-file.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/transformation/util/clone-deep-browser.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/@babel/core/src/transformation/util/clone-deep.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/caching.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/config-chain.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/config-descriptors.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/configuration.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/import.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/index-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/module-types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/package.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/types.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/files/utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/full.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/helpers/config-api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/helpers/environment.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/item.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/partial.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/pattern-to-regex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/printer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/validation/option-assertions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/validation/options.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/validation/plugins.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/config/validation/removed.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/gensync-utils/async.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/gensync-utils/fs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/gensync-utils/resolve.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/parse.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/parser/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/parser/util/missing-plugin-helper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/tools/build-external-helpers.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transform-ast.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transform-file-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transform-file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transform.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/block-hoist-plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/file/file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/file/generate.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/file/merge-map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/normalize-file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/normalize-opts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/lib/transformation/plugin-pass.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/src/config/files/index-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/src/config/files/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/src/transform-file-browser.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/babel-preset-react-app/node_modules/@babel/core/src/transform-file.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/Header.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Layout/HeaderCartButton.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Layout/HeaderCartButton.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Meals/AvailableMeals.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Meals/AvailableMeals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Meals/MealItem/MealItem.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -308,14 +183,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Meals/AvailableMeals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="490">
-              <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+            <state relative-caret-position="297">
+              <caret line="62" selection-start-line="62" selection-end-line="63" />
               <folding>
                 <element signature="e#1#43#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -399,18 +283,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
-              <folding>
-                <element signature="e#0#33#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -475,7 +347,6 @@
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/config/webpack.config.js" />
-        <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/store/CartProvider.js" />
         <option value="$PROJECT_DIR$/src/store/cart-context.js" />
@@ -504,6 +375,7 @@
         <option value="$PROJECT_DIR$/src/components/Layout/Header.js" />
         <option value="$PROJECT_DIR$/src/components/Layout/HeaderCartButton.module.css" />
         <option value="$PROJECT_DIR$/src/components/Meals/AvailableMeals.js" />
+        <option value="$PROJECT_DIR$/src/index.css" />
       </list>
     </option>
   </component>
@@ -621,12 +493,12 @@
       <workItem from="1635936451914" duration="10042000" />
       <workItem from="1636098813574" duration="3786000" />
       <workItem from="1636121888724" duration="415000" />
-      <workItem from="1636628800118" duration="17549000" />
+      <workItem from="1636628800118" duration="18445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31792000" />
+    <option name="totallyTimeSpent" value="32688000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -647,7 +519,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053763" side_tool="true" weight="0.5538642" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946237" weight="0.4566745" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49946237" visible="true" weight="0.45632184" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -687,13 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8092">
           <caret line="476" column="37" selection-start-line="476" selection-start-column="37" selection-end-line="476" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -926,11 +791,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Meals/AvailableMeals.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+        <state relative-caret-position="297">
+          <caret line="62" selection-start-line="62" selection-end-line="63" />
           <folding>
             <element signature="e#1#43#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
