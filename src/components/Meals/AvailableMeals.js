@@ -1,12 +1,13 @@
-import {useEffect, useState} from 'react';
-import "bootstrap/dist/css/bootstrap.min.css";
+import {useEffect, useState, Fragment} from 'react';
 import Card from '../UI/Card';
+import Spinner from '../UI/Spinner';
 import MealItem from './MealItem/MealItem';
 import classes from './AvailableMeals.module.css';
 import axios from 'axios';
 
 const AvailableMeals = () => {
     const [foodlist, setFoodList] = useState([]);
+    const [isLoading, setLoading] = useState(true);
     var options = {
         method: 'GET',
         url: 'https://burgers1.p.rapidapi.com/burgers',
@@ -20,8 +21,9 @@ const AvailableMeals = () => {
        async function getData(){
            await axios.request(options).then(function (response) {
                setFoodList(response.data);
+               setLoading(false);
            }).catch(function (error) {
-
+               setLoading(false);
            });
        }
         getData();
@@ -41,23 +43,10 @@ const AvailableMeals = () => {
     ));
 
     return (
-       /* <section className={classes.meals}>
-            <Card>
-                <ul>{mealsList}</ul>
-            </Card>
-        </section>
-
-        */
-        <div className="container-fluid mb-5">
-            <div className="row">
-                <div className="col-6 mx-auto">
-                    <div className="row gy-sm-1">
-                        {mealsList}
-                    </div>
-                </div>
-            </div>
-        </div>
-
+        <Fragment>
+            {!isLoading && <Card>{mealsList}</Card>}
+            {isLoading && <Spinner />}
+        </Fragment>
     );
 };
 

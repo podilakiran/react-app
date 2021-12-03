@@ -34,6 +34,34 @@ const MealItem = (props) => {
           </div>
         </div>
 */
+        <div className="col mb-4">
+            <div className="card mb-12 col-12 mx-auto">
+                <img src={img} className="card-img-top" alt="..." />
+                    <div className="card-body">
+                        <h5 className="card-title">{props.name}</h5>
+                        <p className="card-text">{props.description}</p>
+                        <p className="card-text">{props.restaurant}</p>
+                        <p className="card-text">{price}</p>
+                        <p className="card-text">{props.web}</p>
+                        <div><MealItemForm id={props.id} onAddToCart={addToCartHandler} /></div>
+                    </div>
+            </div>
+        </div>
+        /*
+        <div className="card">
+            <img src={img} className="card-img-top" alt="..." />
+                <div className="card-body">
+                    <h5 className="card-title">{props.name}</h5>
+                    <p className="card-text">{props.description}</p>
+                    <p className="card-text">{props.restaurant}</p>
+                    <p className="card-text">{price}</p>
+                    <p className="card-text">
+                        <small className="text-muted">{props.web}</small>
+                    </p>
+                    <div><MealItemForm id={props.id} onAddToCart={addToCartHandler} /></div>
+                </div>
+        </div>
+
         <div className="card mb-3 col-10 mx-auto">
             <div className="row g-0">
                 <div className="col-md-4">
@@ -53,7 +81,7 @@ const MealItem = (props) => {
                 </div>
             </div>
         </div>
-/*
+
            <div className="col-md-3 col-10 mx-auto">
                <div className="card">
                    <img src={img} className="card-img-top" alt="" />
